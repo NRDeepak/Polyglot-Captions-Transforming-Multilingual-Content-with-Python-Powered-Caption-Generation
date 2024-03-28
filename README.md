@@ -20,7 +20,7 @@ The **Polyglot Captions** project is a powerful tool for generating multilingual
 ## Getting Started
 
 1. **Installation**:
-   - Clone this repository: `git clone https://github.com/your-username/polyglot-captions.git`
+   - Clone this repository: `https://github.com/NRDeepak/Polyglot-Captions-Transforming-Multilingual-Content-with-Python-Powered-Caption-Generation.git`
    - Install dependencies: `pip install -r requirements.txt`
 
 2. **Usage**:
