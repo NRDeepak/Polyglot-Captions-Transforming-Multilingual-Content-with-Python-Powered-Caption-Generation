@@ -1,9 +1,9 @@
 # Polyglot Captions: Transforming Multilingual Content with Python-Powered Caption Generation
 
-!Polyglot Captions
+
 
 ## Article with a full explanation of the code
-Read the article here : 
+Read the article here: https://medium.com/python-in-plain-english/polyglot-captions-transforming-multilingual-content-with-python-powered-caption-generation-7036da70d834
 
 ## Overview
 
